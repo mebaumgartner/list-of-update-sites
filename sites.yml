@@ -1867,6 +1867,14 @@ sites:
       from TEM images.
     maintainers:
       - "[Thorsten Wagner](https://imagej.net/people/thorstenwagner)"
+      
+  - name: "PECAn"
+    id: "PECAn"
+    url: "https://sites.imagej.net/PECAn/"
+    description: >-
+      A [plugin to analyze multigenotype images] (https://github.com/mebaumgartner/Michaels_Magic_Macro)
+    maintainers: >-
+      - "Michael Baumgartner"
 
   - name: "Pendent Drop"
     id: "Daerr"
